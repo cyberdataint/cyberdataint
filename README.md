@@ -1,13 +1,16 @@
-### Hi there! 👋
+# Hi there! 👋
 
-### About Me
+## About Me
 My name is Grant and I'm passionate about Cybersecurity. Currently, I am studying to specialize in this field, striving to make digital environments more secure.
 
-### My Skills
+## My Skills
 Python is my language of choice for implementing cybersecurity solutions. I have hands-on experience with creating automated scripts, particularly in integrating various security products. One of my notable projects involved leveraging Zoho's ManageEngine API to automatically generate tickets in response to vulnerabilities detected within the environment. Additionally, I have expertise in utilizing numerous APIs to extract data into SQL and the creation of dashboards/paginated reports.
 
-### Contact Me
-Feel free to reach out to me on [GitHub](https://github.com/cyberdataint) for collaboration or any inquiries related to cybersecurity. Let's connect and make cyberspace safer together! 🛡️
+## Contact Me
+Feel free to reach out to me on GitHub for collaboration or any inquiries related to cybersecurity. Let's connect and make cyberspace safer together! 🛡️
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0088CC?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Cybersecurity)
 
 <br>
 
