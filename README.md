@@ -7,7 +7,7 @@ My name is Grant and I'm passionate about Cybersecurity. Currently, I am studyin
 Python is my language of choice for implementing cybersecurity solutions. I have hands-on experience with creating automated scripts, particularly in integrating various security products. One of my notable projects involved leveraging Zoho's ManageEngine API to automatically generate tickets in response to vulnerabilities detected within the environment. Additionally, I have expertise in utilizing numerous APIs to extract data into SQL and the creation of dashboards/paginated reports.
 
 ## Contact Me
-Feel free to reach out to me on ![My Discord](https://discord-readme-badge.vercel.app/api?id=<457224124775792640>) for collaboration or any inquiries related to cybersecurity. Let's connect and make cyberspace safer together! 🛡️
+Feel free to reach out to me on [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.id/457224124775792640) for collaboration or any inquiries related to cybersecurity. Let's connect and make cyberspace safer together! 🛡️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0088CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Cybersecurity)
