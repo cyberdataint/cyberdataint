@@ -11,7 +11,6 @@ Feel free to reach out to me on [![Discord](https://img.shields.io/badge/Discord
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0088CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Cybersecurity)
-[[Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]
 
 <br>
 
