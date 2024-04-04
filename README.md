@@ -10,7 +10,7 @@ Primarily, my experience lies in cybersecurity applications. I have implemented 
 
 
 ## Contact Me
-Feel free to reach out to me on [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/457224124775792640) for collaboration or any inquiries related to cybersecurity. Let's connect and make cyberspace safer together! 🛡️
+Feel free to reach out to me on [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/457224124775792640)  🛡️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0088CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Cybersecurity)
