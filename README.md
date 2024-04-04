@@ -12,6 +12,8 @@ Primarily, my experience lies in cybersecurity applications. I have implemented 
 ## Contact Me
 [![Grant Williams LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Grant%20Williams-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/grant--williams)
 
+
+      
 Feel free to reach out to me on [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/457224124775792640)  🛡️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
