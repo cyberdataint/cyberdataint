@@ -4,7 +4,7 @@
 My name is Grant Williams and I'm passionate about Cybersecurity. Currently, I am working/studying to specialize in this field.
 
 ## My Skills
-Python is my language of choice for implementing cybersecurity solutions. I have hands-on experience in creating automated scripts, particularly in integrating various security products. One of my notable projects involved leveraging Zoho's ManageEngine API to automatically generate tickets in response to vulnerabilities detected within the environment, specifically utilizing the API from Tenable to pull data. Additionally, I have utlized APIs to extract data into SQL and in the creation of dashboards and paginated reports.
+Python is my language of choice for implementing cybersecurity solutions. I have hands-on experience in creating automated scripts, particularly in integrating various security products. One of my notable projects involved leveraging Zoho's ServiceDesk API to automatically generate tickets in response to vulnerabilities detected within the environment, specifically utilizing the API from Tenable to pull data. Additionally, I have utlized APIs to extract data into SQL and in the creation of dashboards and paginated reports.
 
 Primarily, my experience lies in cybersecurity applications. I have implemented source control tools such as GitHub EMU, and I am adept at managing and updating other critical applications such as phishing simulators, EDR systems, and application control tools.
 
